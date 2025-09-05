@@ -50,8 +50,6 @@ The goal is to preprocess COCO images for tasks where sky pixels are irrelevant.
 - Updating annotations for cropped images (masks, bounding boxes).  
 - Saving images and annotations in a COCO-like folder structure.  
 - Side-by-side visualization of original, sky-removed, and cropped images with annotations.  
-- Colab-compatible sequential processing for large datasets.  
-- Incremental saving of intermediate annotation files for safety.  
 
 ---
 
