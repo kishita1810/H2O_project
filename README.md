@@ -1,6 +1,4 @@
-# H2O_project
-
-# COCO Sky Removal & Cropping Processor
+# H2O_project - COCO Sky Removal & Cropping Processor
 
 This repository contains code to automatically **remove the sky from COCO images**, crop the images, and save updated **annotations** for use in deep learning tasks. The project uses **Detectron2** for panoptic segmentation and ensures the dataset is ready for training after preprocessing.
 
